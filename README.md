@@ -1,6 +1,6 @@
 # Vue + Vuetify Template
 
-A template to use for frontend apps that comes with Vue and Vuetify installed and configured.
+A template to use for frontend apps that comes with Vue.js and Vuetify installed and configured.
 
 To get this template, you can run:
 ### `npx degit mehmetmalli/vue-vuetify-template`
